@@ -2,7 +2,7 @@ APPROVED_BREEDS = [
     "Mastiff",
     "Chihuahua",
     "Corgi",
-    "Shar Pei",
+    "Shar-Pei",
     "Beagle",
     "French Bulldog",
     "Pug",
